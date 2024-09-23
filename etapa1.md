@@ -25,14 +25,14 @@ b.	Publicar el repositorio en GitHub de forma privada o pública. Todos los arch
   1. Ingresamos a nuestra cuenta en GITHUB.
   2. Creamos un nuevo repositorio con nombre “tio_tpe_2024”.
   3. Volvemos a la terminal del IDE.
-  4. “git remote add origin https://github.com/dnl243/tio_tpe_2024.git”: enviamos el repositorio a remoto.
+  4. “git remote add origin https://github.com/usuario/tio_tpe_2024.git”: enviamos el repositorio a remoto.
   5. ”git push –u origin master”: enviamos los cambios al repositorio remoto.
 
 c.	Invitar a todos los miembros del grupo como colaboradores.
   1. Dentro del proyecto en GITHUB nos dirigimos a “settings”, “collaborators”, y en “manage access” agregamos a los miembros del equipo con “add people”. 
 
 d.	Cada miembro del grupo debe clonar el repositorio en su máquina local.
-  1. ”git clone https://github.com/dnl243/tio_tpe_2024.git ”: clonará el repositorio localmente dentro de un directorio con el nombre “tio_tpe_2024”.
+  1. ”git clone https://github.com/usuario/tio_tpe_2024.git ”: clonará el repositorio localmente dentro de un directorio con el nombre “tio_tpe_2024”.
 
 En máquina deberán realizar el ejercicio 2 completo. En la hoja entregable deberán indicar qué hicieron en los puntos a, b y d. Tiempo estimado: 10 min
 
