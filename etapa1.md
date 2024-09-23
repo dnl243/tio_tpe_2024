@@ -42,8 +42,6 @@ Gestión de ramas. Cada integrante debe crear un nueva rama en el repositorio co
 
 Escribir el o los comandos git en la hoja entregable. Tiempo estimado: 5 min
   1. ”git checkout –b coordinador”: creo rama de nombre "coordinador" y me sitúo en ella.
-  2. ”mkdir coordinador”: creo directorio de nombre "coordinador".
-  3. ”cd coordinador”: me ubico en el directorio.
   
 ### Problema 4
  
@@ -54,27 +52,28 @@ Ejemplos de posibles puntos donde realizar confirmaciones según cada rol:
 Desarrollador de Frontend:
 ●	Agregar una nueva página de categoría de productos y/o servicios.
 ●	Modificar la página de gestión de turnos.
-
 ●	Mejorar la navegación del sitio, agregando un menú desplegable de navegación o un filtro de búsqueda.
-
 Desarrollador de Backend:
-
 ●	Crear un programa para gestionar la autenticación de usuarios y sus datos de perfil.
 ●	Implementar un sistema de gestión de historias clínicas de mascotas.
-
 Tester o QA:
-
 ●	Resolver problemas de navegabilidad de una página a la otra.
 ●	Crear un programa para reservar turnos en la página.
 ●	Reportar faltas de ortografía en los textos del front-end.
 ●	Reportar comportamiento incorrecto de los botones.
-
 Líder:
 ●	Investigar una nueva tecnología de pago electrónico.
-
 ●	Revisar los documentos de diseño y diagramas técnicos realizados por los desarrolladores
 ●	Averiguar licencias y precios de motores de bases de datos comerciales
 ●	Conseguir licencia de herramientas de modelado de software.
+
+  1. ”mkdir coordinador”: creo directorio de nombre "coordinador".
+  2. ”cd coordinador”: me ubico en el directorio.
+  3. "echo 'Información sobre medios de pago'> <paypal.md>": Crear un nuevo archivo sobre tecnología de pago electrónico.
+  4. "git commit -a -m 'add info paypal'"
+  4. "echo 'Checkeo de documentos de diseño'> <vista.md>": Crear un nuevo archivo sobre diseño UI.
+  5. "echo 'Busqueda de ddbb'> <model.md>": Crear un nuevo archivo sobre administración de bd.
+  6. "echo 'Licencias de herramientas'> <license.md>": Crear un nuevo archivo sobre licencias.
 
 Para la resolución de este punto deberán entregar las secuencias de acciones para realizar al menos tres confirmaciones. Utilizar nombres representativos para identificar los mensajes de las confirmaciones.
 
