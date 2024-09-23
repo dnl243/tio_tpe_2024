@@ -19,7 +19,7 @@ a.  Uno de los integrantes crea un repositorio local en su máquina con una seri
   6. ”touch .htaccess”: creamos el archivo que contendrá la configuración del servidor.
   7. “touch router.php”: creamos el archivo que enrutará las solicitudes del usuario.
   8. “git add .gitignore .htaccess router.php”: añadimos los cambios al área de preparación (staging area).
-  9.”git commit –m ‘initial proyect setup”: confirmamos los cambios realizados.
+  9. ”git commit –m ‘initial proyect setup”: confirmamos los cambios realizados.
 
 b.	Publicar el repositorio en GitHub de forma privada o pública. Todos los archivos del repositorio local creados en el inciso a. deben aparecer en el repositorio remoto alojado en Github.
   1. Ingresamos a nuestra cuenta en GITHUB.
@@ -41,8 +41,10 @@ En máquina deberán realizar el ejercicio 2 completo. En la hoja entregable deb
 Gestión de ramas. Cada integrante debe crear un nueva rama en el repositorio con un nombre que refleje la función en el proyecto. Por ejemplo: el desarrollador de frontend, puede nombrar la rama como "frontend"; el tester o QA, puede nombrar la rama como "testing"; y así sucesivamente, asegurándose de que el nombre de la rama sea descriptivo de la tarea.
 
 Escribir el o los comandos git en la hoja entregable. Tiempo estimado: 5 min
-  1. ”git checkout –b frontend”
-
+  1. ”git checkout –b coordinador”: creo rama de nombre "coordinador" y me sitúo en ella.
+  2. ”mkdir coordinador”: creo directorio de nombre "coordinador".
+  3. ”cd coordinador”: me ubico en el directorio.
+  
 ### Problema 4
  
 Trabajar en sus respectivas ramas. Simular cambios relevantes en la funcionalidad o aspecto relacionados con el rol en el proyecto. Pueden simular nombres de archivos relativos a las tareas que desarrollan.
