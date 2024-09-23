@@ -18,7 +18,7 @@ a.  Uno de los integrantes crea un repositorio local en su máquina con una seri
   5. ”touch .gitignore”: creamos un archivo para ignorar archivos innecesarios.
   6. ”touch .htaccess”: creamos el archivo que contendrá la configuración del servidor.
   7. “touch router.php”: creamos el archivo que enrutará las solicitudes del usuario.
-  8. “git add app templates css database images .htaccess router.php”: añadimos los cambios al área de preparación (staging area).
+  8. “git add .gitignore .htaccess router.php”: añadimos los cambios al área de preparación (staging area).
   9.”git commit –m ‘initial proyect setup”: confirmamos los cambios realizados.
 
 b.	Publicar el repositorio en GitHub de forma privada o pública. Todos los archivos del repositorio local creados en el inciso a. deben aparecer en el repositorio remoto alojado en Github.
