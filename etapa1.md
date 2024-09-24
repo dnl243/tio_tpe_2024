@@ -69,13 +69,13 @@ Líder:
 
   1. ”mkdir coordinador”: creo directorio de nombre "coordinador".
   2. ”cd coordinador”: me ubico en el directorio.
-  3. "echo 'Información sobre medios de pago'> <paypal.md>": Crear un nuevo archivo sobre tecnología de pago electrónico.
+  3. "echo 'Información sobre medios de pago'> paypal.md": Crear un nuevo archivo sobre tecnología de pago electrónico.
   4. "git commit -a -m 'add info paypal'": Agregamos el cambio al area de preparación y confirmamos los cambios.
-  5. "echo 'Checkeo de documentos de diseño'> <vista.md>": Crear un nuevo archivo sobre diseño UI.
+  5. "echo 'Checkeo de documentos de diseño'> vista.md": Crear un nuevo archivo sobre diseño UI.
   6. "git commit -a -m 'add check UI'": Agregamos el cambio al area de preparación y confirmamos los cambios.
-  7. "echo 'Busqueda de ddbb'> <model.md>": Crear un nuevo archivo sobre administración de bd.
+  7. "echo 'Busqueda de ddbb'> model.md": Crear un nuevo archivo sobre administración de bd.
   8. "git commit -a -m 'add info ddbb'": Agregamos el cambio al area de preparación y confirmamos los cambios.
-  9. "echo 'Licencias de herramientas'> <license.md>": Crear un nuevo archivo sobre licencias.
+  9. "echo 'Licencias de herramientas'> license.md": Crear un nuevo archivo sobre licencias.
   10. "git commit -a -m 'add info license'": Agregamos el cambio al area de preparación y confirmamos los cambios.
 
 Para la resolución de este punto deberán entregar las secuencias de acciones para realizar al menos tres confirmaciones. Utilizar nombres representativos para identificar los mensajes de las confirmaciones.
