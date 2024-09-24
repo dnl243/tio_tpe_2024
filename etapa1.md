@@ -86,7 +86,7 @@ Escribir los comandos git en la hoja entregable. Tiempo estimado: 20 min
 
 Mostrar las diferencias entre la primera confirmación y la última. Escribir el o los comandos git en la hoja entregable. Tiempo estimado: 3 min
   1.	git log –oneline –graph
-  2.	2.git diff <hash 1er commit> <hash último commit>
+  2.	2.git diff e63de14 47d5780
 
 ### Problema 6
 
