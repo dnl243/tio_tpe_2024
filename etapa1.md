@@ -109,3 +109,6 @@ Tiempo total estimado de resolución: 01:30 hs
 La etapa 2 tiene 16 ejercicios.
 
 En el problema 10 hicimos cambios.
+
+
+modificacion 2 del problema 10
