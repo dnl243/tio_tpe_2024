@@ -1,4 +1,4 @@
 Este archivo existe para registrar errores o modificaciones del proyecto.
 1era modificación.
 Lista de errores:
-- Usar tabulación en jerarquización de código.
+- Usar tabulación en jerarquización de código.(solucionado)
