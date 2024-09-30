@@ -1,0 +1,6 @@
+Este archivo existe para registrar errores o modificaciones del proyecto.
+
+1er modificación.
+
+Lista de errores:
+- Buscar errores.
