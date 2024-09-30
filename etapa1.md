@@ -105,3 +105,7 @@ Crear un commit que deshaga los cambios introducidos en el paso 4. Escribir el o
 Anexar a la entrega cualquier otro tipo de información que consideren relevante.
 
 Tiempo total estimado de resolución: 01:30 hs
+
+La etapa 2 tiene 16 ejercicios.
+
+En el problema 10 hicimos cambios.
